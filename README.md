@@ -30,18 +30,6 @@ The **Bank Application System** is a comprehensive banking solution developed us
 - **User-Friendly Interface**: Intuitive and visually appealing designs for both users and administrators.
 - **Seamless Navigation**: Clear menus and layouts for easy access to all features.
 
-### 6. **Automated Interest Management**
-- **Savings Accounts**: Automatic monthly interest calculation and crediting.
-- **Loan Accounts**: EMI schedules and interest updates handled without manual intervention.
-
-### 7. **Loan Management System**
-- **Loan Applications**: Users can apply for loans with options for tenure and purpose.
-- **EMI Tracking**: Displays payment schedules, outstanding amounts, and penalties (if applicable).
-- **Foreclosure Options**: Allows early loan repayment with automated penalty calculation.
-
-### 8. **Real-Time Database Integration**
-- **Online Database**: Ensures real-time data access and synchronization.
-- **Universal Accessibility**: Users can run the application from different systems with the same database.
 
 ---
 
@@ -78,14 +66,13 @@ The **Bank Application System** is a comprehensive banking solution developed us
 ---
 
 ## Future Enhancements
-- Adding support for investment and credit card management.
-- Implementing a mobile-compatible version.
+- Adding support for Lonas, EMIs, investment and credit card management.
 - Enhancing GUI with more themes and advanced widgets.
 
 ---
 
 ## Contribution
-We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue to discuss your ideas first.
+Contributions are welcomed! Feel free to fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue to discuss your ideas first.
 
 ---
 
@@ -96,11 +83,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 Add some screenshots of the application interface (e.g., login page, user dashboard, admin dashboard, etc.) here.
+![Screenshot 2024-11-27 180937](https://github.com/user-attachments/assets/90ddf7a7-43d0-4453-96dc-def1239cb653)
+![Screenshot 2024-11-27 181539](https://github.com/user-attachments/assets/8f2eb1b5-0c64-4e83-9809-45defa7841ef)
+![Screenshot 2024-11-27 180956](https://github.com/user-attachments/assets/626f6dbe-a442-4abc-a2f5-53d557e4460c)
+![Screenshot 2024-11-27 181027](https://github.com/user-attachments/assets/d3f5d7e4-a4f8-4dc1-9d2a-f28faf4d74a4)
+![Screenshot 2024-11-27 181105](https://github.com/user-attachments/assets/6e4153aa-c1e8-4397-ad92-8342bcb22347)
+![Screenshot 2024-11-27 181152](https://github.com/user-attachments/assets/a0734b80-6d72-4fd5-936c-c3c5b961ad3c)
 
 ---
 
 ## Contact
 For any inquiries or suggestions, feel free to reach out at:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: aggarwalvishesh0@gmail.com 
+- **GitHub**: [visheshaggarwal0](https://github.com/visheshaggarwal0)
 
