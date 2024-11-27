@@ -1,4 +1,4 @@
-# Bank Application System
+# VBI - Python-Powered Banking
 
 ## Overview
 The **Bank Application System** is a comprehensive banking solution developed using Python, featuring a **beautiful Tkinter-based GUI** for enhanced user experience. This project is designed to simulate essential banking operations, providing functionality for both users and administrators. With a focus on security and convenience, the system incorporates **email OTP verification** for transactions and maintains personal and admin records with real-time accuracy.
