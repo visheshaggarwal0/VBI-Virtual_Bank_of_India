@@ -3,6 +3,9 @@
 ## Overview
 The **Bank Application System** is a comprehensive banking solution developed using Python, featuring a **beautiful Tkinter-based GUI** for enhanced user experience. This project is designed to simulate essential banking operations, providing functionality for both users and administrators. With a focus on security and convenience, the system incorporates **email OTP verification** for transactions and maintains personal and admin records with real-time accuracy.
 
+
+![Screenshot 2024-11-27 180937](https://github.com/user-attachments/assets/90ddf7a7-43d0-4453-96dc-def1239cb653)
+
 ---
 
 ## Key Features
@@ -82,7 +85,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Screenshots
-Add some screenshots of the application interface (e.g., login page, user dashboard, admin dashboard, etc.) here.
 ![Screenshot 2024-11-27 180937](https://github.com/user-attachments/assets/90ddf7a7-43d0-4453-96dc-def1239cb653)
 ![Screenshot 2024-11-27 181539](https://github.com/user-attachments/assets/8f2eb1b5-0c64-4e83-9809-45defa7841ef)
 ![Screenshot 2024-11-27 180956](https://github.com/user-attachments/assets/626f6dbe-a442-4abc-a2f5-53d557e4460c)
